@@ -20,8 +20,6 @@ The java.util.ArrayList library is part of Java’s Collection Framework. It pro
 
 The java.io.PrintWriter library is part of Java’s I/O library and is used to write formatted text output to a variety of output streams, including file output streams. In the generateReportCard method of our Student class, I used a PrintWriter to create a new file and write the student’s details to it. I chose PrintWriter because it simplifies file writing operations, making writing to a file as easy as writing to the console using System.out.println. These libraries enhanced the functionality of the program and made the code more efficient and easier to read.
 
-{Make a list of websites that you found helpful in this project}
-
 - [Codecademy](https://codefinity.com/start/java?utm_source=bing&utm_medium=cpc&utm_campaign=566758054&utm_content=1174280112715058&utm_term=computer%20java%20course&msclkid=d6d61a76972b1e1c5e457f9b84369178)
 - [Stackify](https://stackify.com/java-tutorials/)
 - [W3Schools](https://www.w3schools.com/java/default.asp)
@@ -30,7 +28,6 @@ The java.io.PrintWriter library is part of Java’s I/O library and is used to w
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 
  - Error Handling: Add more comprehensive error handling. For example, check if the grade being added is within a valid range (0-100).
  - More Classes: Introduce more classes such as Course or Teacher to make the program more robust and closer to a real-world school system.
