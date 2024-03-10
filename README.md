@@ -4,7 +4,7 @@ The Java program in this project is a simple demonstration of various fundamenta
 
 The purpose of writing this software was to help you understand and see a practical example of these Java concepts in action. By demonstrating these concepts in a cohesive program, I aimed to provide a more contextual and comprehensive learning experience. 
 
-[Software Demo Video](https://studio.youtube.com/video/0T2o6kR-ZDQ/edit)
+[Software Demo Video](https://youtu.be/0T2o6kR-ZDQ)
 
 # Development Environment
 
